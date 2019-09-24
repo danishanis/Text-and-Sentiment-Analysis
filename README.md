@@ -1,7 +1,7 @@
 # Text & Sentiment Analysis (NLP)
 Public Opinion on Twitter about the US airlines in 2015
 
-**Aim**
+## Aim
 
 ***Sentiment Analysis*** is a branch of Natural Language Processing (NLP) that allows us to determine algorithmically whether a statement or document is “positive” or “negative”.
 
